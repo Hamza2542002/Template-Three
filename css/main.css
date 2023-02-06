@@ -1282,6 +1282,7 @@ div#feature {
     background-size: 20px 20px;
     height: 240px;
     width: 300px;
+    z-index: -100;
 }
 .events .container .content .dots-up{
     top: 0px;
